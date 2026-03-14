@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "KlobberSMP",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "KlobberSMP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "KlobbersSMP.aternos.me",
+    "port": 39936,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Thanks For Playing On The KlobbersSMP!",
+        "This Server Is Also On Bedrock!",
+        "boo! Did That Scare You!"
       ]
     },
     "chat-log": true,
